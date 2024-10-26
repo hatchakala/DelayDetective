@@ -1,0 +1,13 @@
+.month-selector {
+    margin-top: 20px;
+  }
+  
+  .month-selector label {
+    font-size: 1.2em;
+  }
+  
+  .month-selector select {
+    padding: 5px;
+    font-size: 1em;
+  }
+  

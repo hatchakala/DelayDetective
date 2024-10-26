@@ -1,0 +1,42 @@
+.header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #2C3E50;
+    color: white;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-left span {
+    font-size: 1.5em;
+  }
+  
+  .search-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+  }
+  
+  header h1 {
+    font-size: 2em;
+    color: #E74C3C;
+  }
+  
+  #about-button {
+    background-color: #3498DB;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  #about-button:hover {
+    background-color: #2980B9;
+  }
+  
