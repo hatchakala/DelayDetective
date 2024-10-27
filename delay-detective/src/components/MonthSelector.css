@@ -1,21 +1,51 @@
-/* .month-selector {
-    margin-top: 20px;
-  }
-  
-  .month-selector label {
-    font-size: 1.2em;
-  }
-  
-  .month-selector select {
-    padding: 5px;
-    font-size: 1em;
-  } */
 
-  .month-selector {
+  /* .month-selector {
     margin: 20px 0;
   }
   
   .month-selector label {
     margin-right: 10px;
+  } */
+  
+  .month-selector-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .month-selector {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+  }
+  
+  .month-selector label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  .month-selector select {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .month-selector select:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .month-selector-container select {
+    width: 100%;
+    max-width: 300px; /* limits the width */
+  }
+  
+  .month-selector-container label {
+    font-size: 16px;
+  }
+  
+  .month-selector-container .month-selector + .month-selector {
+    margin-top: 20px; /* space between the two dropdowns */
   }
   

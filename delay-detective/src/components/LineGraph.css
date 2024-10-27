@@ -1,21 +1,21 @@
 .line-graph {
-    margin-top: 20px;
-    text-align: center;
-  }
-  
-  .clear-button {
-    margin-top: 10px;
-    padding: 10px 20px;
-    background-color: #FF6A13; /* Orange */
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    transition: background-color 0.3s;
-  }
-  
-  .clear-button:hover {
-    background-color: #FF4700; /* Darker Orange */
-  }
-  
+  margin-top: 20px;
+  text-align: center;
+  position: relative; /* Allow absolute positioning of images */
+}
+
+.clear-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #FF6A13; /* Orange */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.clear-button:hover {
+  background-color: #FF4700; /* Darker Orange */
+}
