@@ -1,4 +1,4 @@
-.header {
+/* .header {
     width: 100%;
     display: flex;
     align-items: center;
@@ -38,5 +38,43 @@
   
   #about-button:hover {
     background-color: #2980B9;
+  } */
+  
+  .header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #003DA5; /* Dark Blue */
+    color: white;
   }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-left span {
+    font-size: 1.5em;
+    color: #FF6A13; /* Orange */
+    font-weight: bold;
+  }
+  
+  .search-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+  }
+  
+  .header-title-container {
+    flex: 1; /* Allows centering */
+    text-align: center;
+  }
+  
+  .header-title {
+    font-size: 2em;
+    color: #009ADA; /* Bright Blue */
+  }
+  
   

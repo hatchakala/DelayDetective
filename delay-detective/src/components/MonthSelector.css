@@ -1,4 +1,4 @@
-.month-selector {
+/* .month-selector {
     margin-top: 20px;
   }
   
@@ -9,5 +9,13 @@
   .month-selector select {
     padding: 5px;
     font-size: 1em;
+  } */
+
+  .month-selector {
+    margin: 20px 0;
+  }
+  
+  .month-selector label {
+    margin-right: 10px;
   }
   

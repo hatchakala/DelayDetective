@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #D9E4F5; /* Light Blue */
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+p {
+  font-size: 1.2em;
+  color: #4B4B4B;
+}
+
+.confidence-intervals {
+  font-size: 1.1em;
+  color: #003DA5;
 }
