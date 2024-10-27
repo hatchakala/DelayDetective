@@ -1,4 +1,4 @@
-      YEAR,LINE,MONTH          ,CATEGORY                                                    ,CANCEL_COUNT,CANCEL_TOTAL,CANCEL_PERCENTAGE,,,
+      YEAR,LINE,MONTH          ,CATEGORY                                                    ,COUNT,TOTAL,PERCENTAGE,,,
 ----------,-------------,---------------,------------------------------------------------------------,------------,------------,-----------------,,,
 2017,Atlantic City Rail Line,APRIL          ,Other Railroads                                             ,6,6,100,,,
 2017,Atlantic City Rail Line,AUGUST         ,Infrastructure Engineering                                  ,49,52,94.2,,,

@@ -73,98 +73,47 @@ class DelayPredictionModel:
         df = df.dropna(subset=['PERCENTAGE'])  # Drop rows with NaN in 'PERCENTAGE'
         
         # If no arguments are given
-        if line is None and month is None:
-            # Prepare input for prediction using average values across the entire dataset
-            average_total = df['TOTAL'].mean()
-            average_percentage = df['PERCENTAGE'].mean()
+        # Prepare input for prediction using average values across the entire dataset
+        average_total = df['TOTAL'].mean()
+        average_percentage = df['PERCENTAGE'].mean()
+
+        if month is None:
+            month = 1
+        if line is None:
+            line_index = 0
+        else:
+            line_index = self.line_mapping.get(line.strip(), None)
+
+
+        
+        # Generate predictions
+        predictions = []
+        for _ in range(num_samples):
+            # Slightly vary the input values to get a range of predictions
+            predicted_delay = self.model.predict([[2024, month, average_total * (1 + np.random.normal(0, 0.1)), average_percentage * (1 + np.random.normal(0, 0.1)), line_index]])
+            # predicted_delay = self.model.predict([[2024, 1, average_total * (1 + np.random.normal(0, 0.1)), average_percentage * (1 + np.random.normal(0, 0.1)), 0]])
+            predictions.append(predicted_delay[0])  # Add the first element of the array
             
-            # Generate predictions
-            predictions = []
-            for _ in range(num_samples):
-                # Slightly vary the input values to get a range of predictions
-                predicted_delay = self.model.predict([[2024, 1, average_total * (1 + np.random.normal(0, 0.1)), average_percentage * (1 + np.random.normal(0, 0.1)), 0]])
-                predictions.append(predicted_delay[0])  # Add the first element of the array
-                
-            # Calculate mean and standard deviation for confidence interval
-            mean_delay = np.mean(predictions)
-            std_dev = np.std(predictions)
-            confidence_interval = (mean_delay - 1.96 * std_dev, mean_delay + 1.96 * std_dev)  # 95% confidence interval
-            return mean_delay, confidence_interval  # Return the predicted mean delay
-
-        # If only line is given
-        if line is not None and month is None:
-            line_index = self.line_mapping.get(line.strip(), None)
-            if line_index is not None:
-                # Prepare input for prediction using average values for that line
-                average_total = df[df['LINE'] == line_index]['TOTAL'].mean()
-                average_percentage = df['PERCENTAGE'].mean()
-
-                # Generate predictions
-                predictions = []
-                for _ in range(num_samples):
-                    predicted_delay = self.model.predict([[2024, 1, average_total * (1 + np.random.normal(0, 0.1)), average_percentage * (1 + np.random.normal(0, 0.1)), line_index]])
-                    predictions.append(predicted_delay[0])
-
-                mean_delay = np.mean(predictions)
-                std_dev = np.std(predictions)
-                confidence_interval = (mean_delay - 1.96 * std_dev, mean_delay + 1.96 * std_dev)
-                return mean_delay, confidence_interval
-
-            else:
-                return f'Line "{line}" not found.'
-
-        # If only month is given
-        if month is not None and line is None:
-            average_total = df['TOTAL'].mean()  # Average total for all lines
-            average_percentage = df[df['MONTH'] == month]['PERCENTAGE'].mean()
-
-            # Generate predictions
-            predictions = []
-            for _ in range(num_samples):
-                predicted_delay = self.model.predict([[2024, month, average_total * (1 + np.random.normal(0, 0.1)), average_percentage * (1 + np.random.normal(0, 0.1)), 0]])
-                predictions.append(predicted_delay[0])
-
-            mean_delay = np.mean(predictions)
-            std_dev = np.std(predictions)
-            confidence_interval = (mean_delay - 1.96 * std_dev, mean_delay + 1.96 * std_dev)
-            return mean_delay, confidence_interval
-
-        # If both line and month are given
-        if line is not None and month is not None:
-            line_index = self.line_mapping.get(line.strip(), None)
-            if line_index is not None:
-                average_total = df[(df['LINE'] == line_index) & (df['MONTH'] == month)]['TOTAL'].mean()
-                average_percentage = df[(df['LINE'] == line_index) & (df['MONTH'] == month)]['PERCENTAGE'].mean()
-
-                # Generate predictions
-                predictions = []
-                for _ in range(num_samples):
-                    predicted_delay = self.model.predict([[2024, month, average_total * (1 + np.random.normal(0, 0.1)), average_percentage * (1 + np.random.normal(0, 0.1)), line_index]])
-                    predictions.append(predicted_delay[0])
-
-                mean_delay = np.mean(predictions)
-                std_dev = np.std(predictions)
-                confidence_interval = (mean_delay - 1.96 * std_dev, mean_delay + 1.96 * std_dev)
-                return mean_delay, confidence_interval
-
-            else:
-                return f'Line "{line}" not found.'
-
+        # Calculate mean and standard deviation for confidence interval
+        mean_delay = np.mean(predictions)
+        std_dev = np.std(predictions)
+        confidence_interval = (mean_delay - 1.96 * std_dev, mean_delay + 1.96 * std_dev)  # 95% confidence interval
+        return mean_delay, confidence_interval  # Return the predicted mean delay
+    
     def average_trains(self, df, line=None, month=None):
-        # Start with the full DataFrame
-        filtered_data = df.copy()
+            # Start with the full DataFrame
+            filtered_data = df.copy()
 
-        # Filter by line if provided
-        if line is not None:
-            filtered_data = filtered_data[filtered_data['LINE'] == line]
+            # Filter by line if provided
+            if line is not None:
+                filtered_data = filtered_data[filtered_data['LINE'] == line]
 
-        # Filter by month if provided
-        if month is not None:
-            filtered_data = filtered_data[filtered_data['MONTH'] == month]
+            # Filter by month if provided
+            if month is not None:
+                filtered_data = filtered_data[filtered_data['MONTH'] == month]
 
-        # Calculate average count
-        average_count = filtered_data['TOTAL'].mean()
+            # Calculate average count
+            average_count = filtered_data['TOTAL'].mean()
 
-        # Return the average count, or 0 if there's no data
-        return average_count if not pd.isna(average_count) else 0  # Return 0 if no data is available
-
+            # Return the average count, or 0 if there's no data
+            return average_count if not pd.isna(average_count) else 0  # Return 0 if no data is available

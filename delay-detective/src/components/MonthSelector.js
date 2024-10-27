@@ -16,7 +16,7 @@ function MonthSelector(props) {
         const values = options.map(option => option.value);
         props.changeLine(values)}}
         >
-      {['Atlantic City Rail Line', 'Main-Bergen Line', 'Montclair Boonton Line', 'Morris & Essex Line','Northeast Corridor', 'North Jersey Coast Line', 'Pascack Valley Line', 'Raritan Valley Line'].map((month) => (
+      {['Atlantic City Rail Line', 'Main-Bergen Line', 'Montclair Boonton Line', 'Morris and Essex Line','Northeast Corridor', 'North Jersey Coast Line', 'Pascack Valley Line', 'Raritan Valley Line'].map((month) => (
         <option key={month} value={month}>{month}</option>
       ))}
     </select>

@@ -52,12 +52,25 @@ if df is not None:
             print(f'Predicted Number of Delayed Trains across all lines: {round(predicted_delayed_trains, 0)}')
         print(f"Confidence Interval {confidence_interval}")
 
+month_map = { 
+    'JANUARY': 1, 'FEBRUARY': 2, 'MARCH': 3, 'APRIL': 4,
+    'MAY': 5, 'JUNE': 6, 'JULY': 7, 'AUGUST': 8,
+    'SEPTEMBER': 9, 'OCTOBER': 10, 'NOVEMBER': 11, 'DECEMBER': 12
+}
+
 @app.route('/api/route')
 def get_current_time():
 
-    line = request.args.get('line')
-    month = request.args.get('month')
-    month = month.upper()
+    line_name = request.args.get('line')
+    month_number = request.args.get('month')
+    month_number = month_number.upper()
+    month_number = month_map[month_number]
+
+    print(line_name)
+    print(month_number)
+    # line_name = request.args.get('line')
+    # month_number = request.args.get('month')
+    # month_number = month_number.upper()
 
     predicted_delay, confidence_interval = model.predict(line=line_name.strip() if line_name.strip() else None, month=month_number)
 
@@ -68,17 +81,13 @@ def get_current_time():
     predicted_delayed_trains = (predicted_delay / 100) * average_trains
 
     # resp = Flask.Response("number")
-
     # resp.headers['Access-Control-Allow-Origin'] = '*'
-
-
     # return resp
     return {
-            "number" : line,
-            "month": month,
             "predicted_delay_all": predicted_delay,
             "predicted_number_all": predicted_delayed_trains,
-            "confidence": confidence_interval,
+            "confidenceLow": confidence_interval[0],
+            "confidenceHigh":confidence_interval[1]
             }
 
 # @app.route('/api/route')
