@@ -57,6 +57,15 @@ def get_current_time():
 
     line = request.args.get('line')
     month = request.args.get('month')
+    month = month.upper()
+
+    predicted_delay, confidence_interval = model.predict(line=line_name.strip() if line_name.strip() else None, month=month_number)
+
+    # Calculate average trains
+    average_trains = model.average_trains(df, model.line_mapping.get(line_name.strip(), None), month_number)
+
+    # Calculate the actual number of delayed trains
+    predicted_delayed_trains = (predicted_delay / 100) * average_trains
 
     # resp = Flask.Response("number")
 
