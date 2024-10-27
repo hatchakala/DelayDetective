@@ -1,0 +1,731 @@
+      YEAR,MONTH          ,LINE                   ,     COUNT,     TOTAL,PERCENTAGE
+----------,---------------,-----------------------,----------,----------,----------
+2017,APRIL          ,Atlantic City Rail Line,675,719,93.9
+2017,AUGUST         ,Atlantic City Rail Line,635,744,85.3
+2017,DECEMBER       ,Atlantic City Rail Line,671,745,90.1
+2017,FEBRUARY       ,Atlantic City Rail Line,621,672,92.4
+2017,JANUARY        ,Atlantic City Rail Line,672,743,90.4
+2017,JULY           ,Atlantic City Rail Line,563,744,75.7
+2017,JUNE           ,Atlantic City Rail Line,649,720,90.1
+2017,MARCH          ,Atlantic City Rail Line,704,742,94.9
+2017,MAY            ,Atlantic City Rail Line,671,743,90.3
+2017,NOVEMBER       ,Atlantic City Rail Line,676,720,93.9
+2017,OCTOBER        ,Atlantic City Rail Line,703,743,94.6
+2017,SEPTEMBER      ,Atlantic City Rail Line,669,721,92.8
+2018,APRIL          ,Atlantic City Rail Line,674,719,93.7
+2018,AUGUST         ,Atlantic City Rail Line,645,744,86.7
+2018,FEBRUARY       ,Atlantic City Rail Line,608,674,90.2
+2018,JANUARY        ,Atlantic City Rail Line,618,743,83.2
+2018,JULY           ,Atlantic City Rail Line,688,743,92.6
+2018,JUNE           ,Atlantic City Rail Line,627,721,87
+2018,MARCH          ,Atlantic City Rail Line,615,745,82.6
+2018,MAY            ,Atlantic City Rail Line,677,744,91
+2018,SEPTEMBER      ,Atlantic City Rail Line,70,97,72.2
+2019,AUGUST         ,Atlantic City Rail Line,685,746,91.8
+2019,DECEMBER       ,Atlantic City Rail Line,695,744,93.4
+2019,JULY           ,Atlantic City Rail Line,580,743,78.1
+2019,JUNE           ,Atlantic City Rail Line,577,720,80.1
+2019,MAY            ,Atlantic City Rail Line,410,479,85.6
+2019,NOVEMBER       ,Atlantic City Rail Line,656,720,91.1
+2019,OCTOBER        ,Atlantic City Rail Line,678,744,91.1
+2019,SEPTEMBER      ,Atlantic City Rail Line,676,720,93.9
+2020,APRIL          ,Atlantic City Rail Line,694,748,92.8
+2020,AUGUST         ,Atlantic City Rail Line,647,744,87
+2020,DECEMBER       ,Atlantic City Rail Line,715,804,88.9
+2020,FEBRUARY       ,Atlantic City Rail Line,663,696,95.3
+2020,JANUARY        ,Atlantic City Rail Line,706,744,94.9
+2020,JULY           ,Atlantic City Rail Line,686,744,92.2
+2020,JUNE           ,Atlantic City Rail Line,667,750,88.9
+2020,MARCH          ,Atlantic City Rail Line,700,744,94.1
+2020,MAY            ,Atlantic City Rail Line,702,784,89.5
+2020,NOVEMBER       ,Atlantic City Rail Line,721,814,88.6
+2020,OCTOBER        ,Atlantic City Rail Line,780,854,91.3
+2020,SEPTEMBER      ,Atlantic City Rail Line,708,785,90.2
+2021,APRIL          ,Atlantic City Rail Line,655,720,91
+2021,AUGUST         ,Atlantic City Rail Line,656,746,87.9
+2021,DECEMBER       ,Atlantic City Rail Line,695,744,93.4
+2021,FEBRUARY       ,Atlantic City Rail Line,539,672,80.2
+2021,JANUARY        ,Atlantic City Rail Line,711,744,95.6
+2021,JULY           ,Atlantic City Rail Line,663,744,89.1
+2021,JUNE           ,Atlantic City Rail Line,668,720,92.8
+2021,MARCH          ,Atlantic City Rail Line,691,744,92.9
+2021,MAY            ,Atlantic City Rail Line,632,744,84.9
+2021,NOVEMBER       ,Atlantic City Rail Line,643,720,89.3
+2021,OCTOBER        ,Atlantic City Rail Line,690,744,92.7
+2021,SEPTEMBER      ,Atlantic City Rail Line,550,720,76.4
+2022,APRIL          ,Atlantic City Rail Line,655,720,91
+2022,AUGUST         ,Atlantic City Rail Line,698,746,93.6
+2022,DECEMBER       ,Atlantic City Rail Line,669,744,89.9
+2022,FEBRUARY       ,Atlantic City Rail Line,636,672,94.6
+2022,JANUARY        ,Atlantic City Rail Line,681,744,91.5
+2022,JULY           ,Atlantic City Rail Line,647,744,87
+2022,JUNE           ,Atlantic City Rail Line,635,720,88.2
+2022,MARCH          ,Atlantic City Rail Line,701,744,94.2
+2022,MAY            ,Atlantic City Rail Line,685,744,92.1
+2022,NOVEMBER       ,Atlantic City Rail Line,646,720,89.7
+2022,OCTOBER        ,Atlantic City Rail Line,668,744,89.8
+2022,SEPTEMBER      ,Atlantic City Rail Line,673,720,93.5
+2023,APRIL          ,Atlantic City Rail Line,678,720,94.2
+2023,AUGUST         ,Atlantic City Rail Line,660,746,88.5
+2023,DECEMBER       ,Atlantic City Rail Line,687,744,92.3
+2023,FEBRUARY       ,Atlantic City Rail Line,620,672,92.3
+2023,JANUARY        ,Atlantic City Rail Line,706,744,94.9
+2023,JULY           ,Atlantic City Rail Line,665,744,89.4
+2023,JUNE           ,Atlantic City Rail Line,670,720,93.1
+2023,MARCH          ,Atlantic City Rail Line,717,744,96.4
+2023,MAY            ,Atlantic City Rail Line,686,744,92.2
+2023,NOVEMBER       ,Atlantic City Rail Line,657,720,91.3
+2023,OCTOBER        ,Atlantic City Rail Line,685,744,92.1
+2023,SEPTEMBER      ,Atlantic City Rail Line,655,720,91
+2024,APRIL          ,Atlantic City Rail Line,550,720,76.4
+2024,AUGUST         ,Atlantic City Rail Line,700,744,94.1
+2024,FEBRUARY       ,Atlantic City Rail Line,682,696,98
+2024,JANUARY        ,Atlantic City Rail Line,688,744,92.5
+2024,JULY           ,Atlantic City Rail Line,674,744,90.6
+2024,JUNE           ,Atlantic City Rail Line,672,720,93.3
+2024,MARCH          ,Atlantic City Rail Line,706,744,94.9
+2024,MAY            ,Atlantic City Rail Line,684,744,91.9
+2017,APRIL          ,Main-Bergen Line       ,2844,2980,95.4
+2017,AUGUST         ,Main-Bergen Line       ,3011,3196,94.2
+2017,DECEMBER       ,Main-Bergen Line       ,2875,3047,94.4
+2017,FEBRUARY       ,Main-Bergen Line       ,2698,2801,96.3
+2017,JANUARY        ,Main-Bergen Line       ,2952,3051,96.8
+2017,JULY           ,Main-Bergen Line       ,2902,3047,95.2
+2017,JUNE           ,Main-Bergen Line       ,2942,3079,95.6
+2017,MARCH          ,Main-Bergen Line       ,2936,3094,94.9
+2017,MAY            ,Main-Bergen Line       ,3048,3146,96.9
+2017,NOVEMBER       ,Main-Bergen Line       ,2883,3031,95.1
+2017,OCTOBER        ,Main-Bergen Line       ,2976,3146,94.6
+2017,SEPTEMBER      ,Main-Bergen Line       ,2900,2980,97.3
+2018,APRIL          ,Main-Bergen Line       ,2891,3038,95.2
+2018,AUGUST         ,Main-Bergen Line       ,2949,3195,92.3
+2018,DECEMBER       ,Main-Bergen Line       ,2804,2967,94.5
+2018,FEBRUARY       ,Main-Bergen Line       ,2701,2801,96.4
+2018,JANUARY        ,Main-Bergen Line       ,2865,3106,92.2
+2018,JULY           ,Main-Bergen Line       ,2869,3096,92.7
+2018,JUNE           ,Main-Bergen Line       ,2862,3020,94.8
+2018,MARCH          ,Main-Bergen Line       ,2783,3080,90.4
+2018,MAY            ,Main-Bergen Line       ,2948,3147,93.7
+2018,NOVEMBER       ,Main-Bergen Line       ,2578,2947,87.5
+2018,OCTOBER        ,Main-Bergen Line       ,2988,3144,95
+2018,SEPTEMBER      ,Main-Bergen Line       ,2785,2931,95
+2019,APRIL          ,Main-Bergen Line       ,2897,2992,96.8
+2019,AUGUST         ,Main-Bergen Line       ,2862,3056,93.7
+2019,DECEMBER       ,Main-Bergen Line       ,2810,3011,93.3
+2019,FEBRUARY       ,Main-Bergen Line       ,2529,2725,92.8
+2019,JANUARY        ,Main-Bergen Line       ,2863,3022,94.7
+2019,JULY           ,Main-Bergen Line       ,2732,3058,89.3
+2019,JUNE           ,Main-Bergen Line       ,2721,2900,93.8
+2019,MARCH          ,Main-Bergen Line       ,2882,3015,95.6
+2019,MAY            ,Main-Bergen Line       ,2906,3058,95
+2019,NOVEMBER       ,Main-Bergen Line       ,2649,2900,91.3
+2019,OCTOBER        ,Main-Bergen Line       ,2876,3103,92.7
+2019,SEPTEMBER      ,Main-Bergen Line       ,2767,2899,95.4
+2020,APRIL          ,Main-Bergen Line       ,1986,2024,98.1
+2020,AUGUST         ,Main-Bergen Line       ,2666,2875,92.7
+2020,DECEMBER       ,Main-Bergen Line       ,2758,2970,92.9
+2020,FEBRUARY       ,Main-Bergen Line       ,2696,2791,96.6
+2020,JANUARY        ,Main-Bergen Line       ,2888,3023,95.5
+2020,JULY           ,Main-Bergen Line       ,2793,2970,94
+2020,JUNE           ,Main-Bergen Line       ,1968,2024,97.2
+2020,MARCH          ,Main-Bergen Line       ,2655,2705,98.2
+2020,MAY            ,Main-Bergen Line       ,2038,2086,97.7
+2020,NOVEMBER       ,Main-Bergen Line       ,2696,2856,94.4
+2020,OCTOBER        ,Main-Bergen Line       ,2970,3058,97.1
+2020,SEPTEMBER      ,Main-Bergen Line       ,2865,2946,97.3
+2021,APRIL          ,Main-Bergen Line       ,2916,2992,97.5
+2021,AUGUST         ,Main-Bergen Line       ,2888,3056,94.5
+2021,DECEMBER       ,Main-Bergen Line       ,3254,3363,96.8
+2021,FEBRUARY       ,Main-Bergen Line       ,2346,2475,94.8
+2021,JANUARY        ,Main-Bergen Line       ,2777,2924,95
+2021,JULY           ,Main-Bergen Line       ,2852,3015,94.6
+2021,JUNE           ,Main-Bergen Line       ,2882,2985,96.5
+2021,MARCH          ,Main-Bergen Line       ,2989,3104,96.3
+2021,MAY            ,Main-Bergen Line       ,2852,2967,96.1
+2021,NOVEMBER       ,Main-Bergen Line       ,2856,3083,92.6
+2021,OCTOBER        ,Main-Bergen Line       ,2881,3012,95.7
+2021,SEPTEMBER      ,Main-Bergen Line       ,2613,2835,92.2
+2022,APRIL          ,Main-Bergen Line       ,3099,3215,96.4
+2022,AUGUST         ,Main-Bergen Line       ,3281,3401,96.5
+2022,DECEMBER       ,Main-Bergen Line       ,3116,3322,93.8
+2022,FEBRUARY       ,Main-Bergen Line       ,2893,3003,96.3
+2022,JANUARY        ,Main-Bergen Line       ,3091,3290,94
+2022,JULY           ,Main-Bergen Line       ,3160,3279,96.4
+2022,JUNE           ,Main-Bergen Line       ,3152,3268,96.5
+2022,MARCH          ,Main-Bergen Line       ,3304,3400,97.2
+2022,MAY            ,Main-Bergen Line       ,3236,3321,97.4
+2022,NOVEMBER       ,Main-Bergen Line       ,2998,3186,94.1
+2022,OCTOBER        ,Main-Bergen Line       ,3098,3260,95
+2022,SEPTEMBER      ,Main-Bergen Line       ,3107,3210,96.8
+2023,APRIL          ,Main-Bergen Line       ,3021,3187,94.8
+2023,AUGUST         ,Main-Bergen Line       ,3249,3400,95.6
+2023,DECEMBER       ,Main-Bergen Line       ,3144,3281,95.8
+2023,FEBRUARY       ,Main-Bergen Line       ,2898,3003,96.5
+2023,JANUARY        ,Main-Bergen Line       ,3226,3293,98
+2023,JULY           ,Main-Bergen Line       ,3048,3281,92.9
+2023,JUNE           ,Main-Bergen Line       ,2792,3279,85.1
+2023,MARCH          ,Main-Bergen Line       ,3257,3389,96.1
+2023,MAY            ,Main-Bergen Line       ,3201,3361,95.2
+2023,NOVEMBER       ,Main-Bergen Line       ,3053,3204,95.3
+2023,OCTOBER        ,Main-Bergen Line       ,3153,3343,94.3
+2023,SEPTEMBER      ,Main-Bergen Line       ,2956,3181,92.9
+2024,APRIL          ,Main-Bergen Line       ,3124,3257,95.9
+2024,AUGUST         ,Main-Bergen Line       ,3175,3358,94.6
+2024,FEBRUARY       ,Main-Bergen Line       ,2977,3123,95.3
+2024,JANUARY        ,Main-Bergen Line       ,3112,3331,93.4
+2024,JULY           ,Main-Bergen Line       ,3158,3361,94
+2024,JUNE           ,Main-Bergen Line       ,2948,3175,92.9
+2024,MARCH          ,Main-Bergen Line       ,3222,3321,97
+2024,MAY            ,Main-Bergen Line       ,3173,3326,95.4
+2017,APRIL          ,Montclair Boonton Line ,1260,1509,83.5
+2017,AUGUST         ,Montclair Boonton Line ,1594,1693,94.2
+2017,DECEMBER       ,Montclair Boonton Line ,1417,1528,92.7
+2017,FEBRUARY       ,Montclair Boonton Line ,1341,1436,93.4
+2017,JANUARY        ,Montclair Boonton Line ,1457,1551,93.9
+2017,JULY           ,Montclair Boonton Line ,1409,1544,91.3
+2017,JUNE           ,Montclair Boonton Line ,1340,1604,83.5
+2017,MARCH          ,Montclair Boonton Line ,1483,1584,93.6
+2017,MAY            ,Montclair Boonton Line ,1348,1624,83
+2017,NOVEMBER       ,Montclair Boonton Line ,1452,1557,93.3
+2017,OCTOBER        ,Montclair Boonton Line ,1477,1623,91
+2017,SEPTEMBER      ,Montclair Boonton Line ,1415,1511,93.6
+2018,APRIL          ,Montclair Boonton Line ,1445,1558,92.7
+2018,AUGUST         ,Montclair Boonton Line ,1501,1665,90.2
+2018,DECEMBER       ,Montclair Boonton Line ,1303,1508,86.4
+2018,FEBRUARY       ,Montclair Boonton Line ,1371,1436,95.5
+2018,JANUARY        ,Montclair Boonton Line ,1393,1587,87.8
+2018,JULY           ,Montclair Boonton Line ,1429,1576,90.7
+2018,JUNE           ,Montclair Boonton Line ,1450,1556,93.2
+2018,MARCH          ,Montclair Boonton Line ,1362,1578,86.3
+2018,MAY            ,Montclair Boonton Line ,1494,1623,92.1
+2018,NOVEMBER       ,Montclair Boonton Line ,1190,1536,77.5
+2018,OCTOBER        ,Montclair Boonton Line ,1331,1656,80.4
+2018,SEPTEMBER      ,Montclair Boonton Line ,1260,1462,86.2
+2019,APRIL          ,Montclair Boonton Line ,1459,1583,92.2
+2019,AUGUST         ,Montclair Boonton Line ,1493,1617,92.3
+2019,DECEMBER       ,Montclair Boonton Line ,1390,1555,89.4
+2019,FEBRUARY       ,Montclair Boonton Line ,1224,1418,86.3
+2019,JANUARY        ,Montclair Boonton Line ,1376,1568,87.8
+2019,JULY           ,Montclair Boonton Line ,1473,1624,90.7
+2019,JUNE           ,Montclair Boonton Line ,1341,1499,89.5
+2019,MARCH          ,Montclair Boonton Line ,1405,1554,90.4
+2019,MAY            ,Montclair Boonton Line ,1432,1601,89.4
+2019,NOVEMBER       ,Montclair Boonton Line ,1244,1488,83.6
+2019,OCTOBER        ,Montclair Boonton Line ,1453,1645,88.3
+2019,SEPTEMBER      ,Montclair Boonton Line ,1345,1493,90.1
+2020,APRIL          ,Montclair Boonton Line ,805,812,99.1
+2020,AUGUST         ,Montclair Boonton Line ,1272,1417,89.8
+2020,DECEMBER       ,Montclair Boonton Line ,1426,1508,94.6
+2020,FEBRUARY       ,Montclair Boonton Line ,1327,1435,92.5
+2020,JANUARY        ,Montclair Boonton Line ,1441,1573,91.6
+2020,JULY           ,Montclair Boonton Line ,1330,1532,86.8
+2020,JUNE           ,Montclair Boonton Line ,799,812,98.4
+2020,MARCH          ,Montclair Boonton Line ,1206,1311,92
+2020,MAY            ,Montclair Boonton Line ,790,809,97.7
+2020,NOVEMBER       ,Montclair Boonton Line ,1349,1456,92.7
+2020,OCTOBER        ,Montclair Boonton Line ,1504,1600,94
+2020,SEPTEMBER      ,Montclair Boonton Line ,1468,1536,95.6
+2021,APRIL          ,Montclair Boonton Line ,1521,1582,96.1
+2021,AUGUST         ,Montclair Boonton Line ,1517,1602,94.7
+2021,DECEMBER       ,Montclair Boonton Line ,1517,1611,94.2
+2021,FEBRUARY       ,Montclair Boonton Line ,1189,1265,94
+2021,JANUARY        ,Montclair Boonton Line ,1395,1474,94.6
+2021,JULY           ,Montclair Boonton Line ,1452,1565,92.8
+2021,JUNE           ,Montclair Boonton Line ,1479,1583,93.4
+2021,MARCH          ,Montclair Boonton Line ,1490,1648,90.4
+2021,MAY            ,Montclair Boonton Line ,1465,1508,97.1
+2021,NOVEMBER       ,Montclair Boonton Line ,1365,1502,90.9
+2021,OCTOBER        ,Montclair Boonton Line ,1451,1553,93.4
+2021,SEPTEMBER      ,Montclair Boonton Line ,1321,1471,89.8
+2022,APRIL          ,Montclair Boonton Line ,1463,1535,95.3
+2022,AUGUST         ,Montclair Boonton Line ,1493,1648,90.6
+2022,DECEMBER       ,Montclair Boonton Line ,1449,1567,92.5
+2022,FEBRUARY       ,Montclair Boonton Line ,1303,1417,92
+2022,JANUARY        ,Montclair Boonton Line ,1420,1521,93.4
+2022,JULY           ,Montclair Boonton Line ,1430,1508,94.8
+2022,JUNE           ,Montclair Boonton Line ,1490,1582,94.2
+2022,MARCH          ,Montclair Boonton Line ,1560,1644,94.9
+2022,MAY            ,Montclair Boonton Line ,1465,1556,94.2
+2022,NOVEMBER       ,Montclair Boonton Line ,1357,1501,90.4
+2022,OCTOBER        ,Montclair Boonton Line ,1441,1554,92.7
+2022,SEPTEMBER      ,Montclair Boonton Line ,1425,1536,92.8
+2023,APRIL          ,Montclair Boonton Line ,1377,1489,92.5
+2023,AUGUST         ,Montclair Boonton Line ,1510,1647,91.7
+2023,DECEMBER       ,Montclair Boonton Line ,1330,1503,88.5
+2023,FEBRUARY       ,Montclair Boonton Line ,1314,1417,92.7
+2023,JANUARY        ,Montclair Boonton Line ,1472,1534,96
+2023,JULY           ,Montclair Boonton Line ,1392,1509,92.2
+2023,JUNE           ,Montclair Boonton Line ,1495,1582,94.5
+2023,MARCH          ,Montclair Boonton Line ,1485,1649,90.1
+2023,MAY            ,Montclair Boonton Line ,1400,1602,87.4
+2023,NOVEMBER       ,Montclair Boonton Line ,1354,1501,90.2
+2023,OCTOBER        ,Montclair Boonton Line ,1414,1601,88.3
+2023,SEPTEMBER      ,Montclair Boonton Line ,1281,1489,86
+2024,APRIL          ,Montclair Boonton Line ,1450,1583,91.6
+2024,AUGUST         ,Montclair Boonton Line ,1334,1600,83.4
+2024,FEBRUARY       ,Montclair Boonton Line ,1351,1482,91.2
+2024,JANUARY        ,Montclair Boonton Line ,1398,1569,89.1
+2024,JULY           ,Montclair Boonton Line ,1407,1604,87.7
+2024,JUNE           ,Montclair Boonton Line ,1205,1489,80.9
+2024,MARCH          ,Montclair Boonton Line ,1442,1556,92.7
+2024,MAY            ,Montclair Boonton Line ,1441,1601,90
+2017,APRIL          ,Morris & Essex Line    ,2833,3393,83.5
+2017,AUGUST         ,Morris & Essex Line    ,3344,3547,94.3
+2017,DECEMBER       ,Morris & Essex Line    ,3517,3876,90.7
+2017,FEBRUARY       ,Morris & Essex Line    ,3267,3564,91.7
+2017,JANUARY        ,Morris & Essex Line    ,3644,3889,93.7
+2017,JULY           ,Morris & Essex Line    ,3094,3316,93.3
+2017,JUNE           ,Morris & Essex Line    ,3115,3631,85.8
+2017,MARCH          ,Morris & Essex Line    ,3548,3820,92.9
+2017,MAY            ,Morris & Essex Line    ,3125,3662,85.3
+2017,NOVEMBER       ,Morris & Essex Line    ,3595,3876,92.8
+2017,OCTOBER        ,Morris & Essex Line    ,3357,3721,90.2
+2017,SEPTEMBER      ,Morris & Essex Line    ,3031,3391,89.4
+2018,APRIL          ,Morris & Essex Line    ,3513,3868,90.8
+2018,AUGUST         ,Morris & Essex Line    ,3558,4071,87.4
+2018,DECEMBER       ,Morris & Essex Line    ,2825,3282,86.1
+2018,FEBRUARY       ,Morris & Essex Line    ,3400,3583,94.9
+2018,JANUARY        ,Morris & Essex Line    ,3513,3970,88.5
+2018,JULY           ,Morris & Essex Line    ,3497,3927,89.1
+2018,JUNE           ,Morris & Essex Line    ,3500,3840,91.1
+2018,MARCH          ,Morris & Essex Line    ,3308,3916,84.5
+2018,MAY            ,Morris & Essex Line    ,3593,4018,89.4
+2018,NOVEMBER       ,Morris & Essex Line    ,2661,3393,78.4
+2018,OCTOBER        ,Morris & Essex Line    ,3255,3798,85.7
+2018,SEPTEMBER      ,Morris & Essex Line    ,3291,3696,89
+2019,APRIL          ,Morris & Essex Line    ,3144,3450,91.1
+2019,AUGUST         ,Morris & Essex Line    ,3156,3512,89.9
+2019,DECEMBER       ,Morris & Essex Line    ,2986,3396,87.9
+2019,FEBRUARY       ,Morris & Essex Line    ,2528,3119,81.1
+2019,JANUARY        ,Morris & Essex Line    ,2975,3449,86.3
+2019,JULY           ,Morris & Essex Line    ,3068,3551,86.4
+2019,JUNE           ,Morris & Essex Line    ,2922,3250,89.9
+2019,MARCH          ,Morris & Essex Line    ,3039,3390,89.6
+2019,MAY            ,Morris & Essex Line    ,3174,3491,90.9
+2019,NOVEMBER       ,Morris & Essex Line    ,2806,3290,85.3
+2019,OCTOBER        ,Morris & Essex Line    ,3149,3612,87.2
+2019,SEPTEMBER      ,Morris & Essex Line    ,2874,3245,88.6
+2020,APRIL          ,Morris & Essex Line    ,2441,2570,95
+2020,AUGUST         ,Morris & Essex Line    ,2730,3185,85.7
+2020,DECEMBER       ,Morris & Essex Line    ,3111,3350,92.9
+2020,FEBRUARY       ,Morris & Essex Line    ,2872,3157,91
+2020,JANUARY        ,Morris & Essex Line    ,3187,3450,92.4
+2020,JULY           ,Morris & Essex Line    ,2873,3409,84.3
+2020,JUNE           ,Morris & Essex Line    ,2509,2569,97.7
+2020,MARCH          ,Morris & Essex Line    ,2947,3152,93.5
+2020,MAY            ,Morris & Essex Line    ,2446,2479,98.7
+2020,NOVEMBER       ,Morris & Essex Line    ,2976,3234,92
+2020,OCTOBER        ,Morris & Essex Line    ,3293,3488,94.4
+2020,SEPTEMBER      ,Morris & Essex Line    ,3170,3345,94.8
+2021,APRIL          ,Morris & Essex Line    ,3267,3450,94.7
+2021,AUGUST         ,Morris & Essex Line    ,3442,3843,89.6
+2021,DECEMBER       ,Morris & Essex Line    ,3591,3889,92.3
+2021,FEBRUARY       ,Morris & Essex Line    ,2574,2788,92.3
+2021,JANUARY        ,Morris & Essex Line    ,3069,3234,94.9
+2021,JULY           ,Morris & Essex Line    ,3382,3790,89.2
+2021,JUNE           ,Morris & Essex Line    ,3398,3727,91.2
+2021,MARCH          ,Morris & Essex Line    ,3320,3593,92.4
+2021,MAY            ,Morris & Essex Line    ,3059,3278,93.3
+2021,NOVEMBER       ,Morris & Essex Line    ,3140,3679,85.3
+2021,OCTOBER        ,Morris & Essex Line    ,3333,3725,89.5
+2021,SEPTEMBER      ,Morris & Essex Line    ,3060,3553,86.1
+2022,APRIL          ,Morris & Essex Line    ,3527,3698,95.4
+2022,AUGUST         ,Morris & Essex Line    ,3644,4001,91.1
+2022,DECEMBER       ,Morris & Essex Line    ,3525,3878,90.9
+2022,FEBRUARY       ,Morris & Essex Line    ,3196,3507,91.1
+2022,JANUARY        ,Morris & Essex Line    ,3363,3690,91.1
+2022,JULY           ,Morris & Essex Line    ,3439,3785,90.9
+2022,JUNE           ,Morris & Essex Line    ,3609,3850,93.7
+2022,MARCH          ,Morris & Essex Line    ,3143,3515,89.4
+2022,MAY            ,Morris & Essex Line    ,3556,3785,93.9
+2022,NOVEMBER       ,Morris & Essex Line    ,3392,3739,90.7
+2022,OCTOBER        ,Morris & Essex Line    ,3423,3774,90.7
+2022,SEPTEMBER      ,Morris & Essex Line    ,3504,3782,92.6
+2023,APRIL          ,Morris & Essex Line    ,3353,3633,92.3
+2023,AUGUST         ,Morris & Essex Line    ,3483,4020,86.6
+2023,DECEMBER       ,Morris & Essex Line    ,3149,3681,85.5
+2023,FEBRUARY       ,Morris & Essex Line    ,3157,3507,90
+2023,JANUARY        ,Morris & Essex Line    ,3609,3798,95
+2023,JULY           ,Morris & Essex Line    ,3287,3807,86.3
+2023,JUNE           ,Morris & Essex Line    ,3322,3749,88.6
+2023,MARCH          ,Morris & Essex Line    ,3572,3920,91.1
+2023,MAY            ,Morris & Essex Line    ,3503,3955,88.6
+2023,NOVEMBER       ,Morris & Essex Line    ,3254,3688,88.2
+2023,OCTOBER        ,Morris & Essex Line    ,3434,3932,87.3
+2023,SEPTEMBER      ,Morris & Essex Line    ,3233,3734,86.6
+2024,APRIL          ,Morris & Essex Line    ,3531,3876,91.1
+2024,AUGUST         ,Morris & Essex Line    ,3143,3894,80.7
+2024,FEBRUARY       ,Morris & Essex Line    ,3370,3680,91.6
+2024,JANUARY        ,Morris & Essex Line    ,3366,3905,86.2
+2024,JULY           ,Morris & Essex Line    ,3383,3981,85
+2024,JUNE           ,Morris & Essex Line    ,2907,3668,79.3
+2024,MARCH          ,Morris & Essex Line    ,3574,3877,92.2
+2024,MAY            ,Morris & Essex Line    ,3371,3882,86.8
+2017,APRIL          ,Northeast Corridor     ,2602,3228,80.6
+2017,AUGUST         ,Northeast Corridor     ,3367,3709,90.8
+2017,DECEMBER       ,Northeast Corridor     ,3018,3493,86.4
+2017,FEBRUARY       ,Northeast Corridor     ,2890,3224,89.6
+2017,JANUARY        ,Northeast Corridor     ,3071,3500,87.7
+2017,JULY           ,Northeast Corridor     ,3228,3484,92.7
+2017,JUNE           ,Northeast Corridor     ,2841,3574,79.5
+2017,MARCH          ,Northeast Corridor     ,3245,3556,91.3
+2017,MAY            ,Northeast Corridor     ,2863,3637,78.7
+2017,NOVEMBER       ,Northeast Corridor     ,3186,3513,90.7
+2017,OCTOBER        ,Northeast Corridor     ,3173,3639,87.2
+2017,SEPTEMBER      ,Northeast Corridor     ,3055,3420,89.3
+2018,APRIL          ,Northeast Corridor     ,3159,3496,90.4
+2018,AUGUST         ,Northeast Corridor     ,3254,3642,89.3
+2018,DECEMBER       ,Northeast Corridor     ,3016,3366,89.6
+2018,FEBRUARY       ,Northeast Corridor     ,2992,3224,92.8
+2018,JANUARY        ,Northeast Corridor     ,2929,3574,82
+2018,JULY           ,Northeast Corridor     ,3125,3499,89.3
+2018,JUNE           ,Northeast Corridor     ,3163,3434,92.1
+2018,MARCH          ,Northeast Corridor     ,3025,3501,86.4
+2018,MAY            ,Northeast Corridor     ,3310,3635,91.1
+2018,NOVEMBER       ,Northeast Corridor     ,2833,3387,83.6
+2018,OCTOBER        ,Northeast Corridor     ,3115,3606,86.4
+2018,SEPTEMBER      ,Northeast Corridor     ,2979,3289,90.6
+2019,APRIL          ,Northeast Corridor     ,3218,3439,93.6
+2019,AUGUST         ,Northeast Corridor     ,3250,3504,92.8
+2019,DECEMBER       ,Northeast Corridor     ,3131,3441,91
+2019,FEBRUARY       ,Northeast Corridor     ,2748,3110,88.4
+2019,JANUARY        ,Northeast Corridor     ,2959,3448,85.8
+2019,JULY           ,Northeast Corridor     ,3037,3505,86.6
+2019,JUNE           ,Northeast Corridor     ,2974,3299,90.1
+2019,MARCH          ,Northeast Corridor     ,3202,3434,93.2
+2019,MAY            ,Northeast Corridor     ,3309,3512,94.2
+2019,NOVEMBER       ,Northeast Corridor     ,2967,3316,89.5
+2019,OCTOBER        ,Northeast Corridor     ,3303,3573,92.4
+2019,SEPTEMBER      ,Northeast Corridor     ,2997,3304,90.7
+2020,APRIL          ,Northeast Corridor     ,1992,2080,95.8
+2020,AUGUST         ,Northeast Corridor     ,2816,3064,91.9
+2020,DECEMBER       ,Northeast Corridor     ,2934,3161,92.8
+2020,FEBRUARY       ,Northeast Corridor     ,2869,3173,90.4
+2020,JANUARY        ,Northeast Corridor     ,3159,3451,91.5
+2020,JULY           ,Northeast Corridor     ,3098,3377,91.7
+2020,JUNE           ,Northeast Corridor     ,2002,2052,97.6
+2020,MARCH          ,Northeast Corridor     ,2779,3003,92.5
+2020,MAY            ,Northeast Corridor     ,2030,2135,95.1
+2020,NOVEMBER       ,Northeast Corridor     ,2909,3049,95.4
+2020,OCTOBER        ,Northeast Corridor     ,3195,3281,97.4
+2020,SEPTEMBER      ,Northeast Corridor     ,3077,3159,97.4
+2021,APRIL          ,Northeast Corridor     ,3043,3218,94.6
+2021,AUGUST         ,Northeast Corridor     ,3162,3371,93.8
+2021,DECEMBER       ,Northeast Corridor     ,3232,3474,93
+2021,FEBRUARY       ,Northeast Corridor     ,2442,2683,91
+2021,JANUARY        ,Northeast Corridor     ,2906,3112,93.4
+2021,JULY           ,Northeast Corridor     ,3109,3314,93.8
+2021,JUNE           ,Northeast Corridor     ,3110,3290,94.5
+2021,MARCH          ,Northeast Corridor     ,3163,3342,94.6
+2021,MAY            ,Northeast Corridor     ,3019,3163,95.4
+2021,NOVEMBER       ,Northeast Corridor     ,2936,3241,90.6
+2021,OCTOBER        ,Northeast Corridor     ,3054,3311,92.2
+2021,SEPTEMBER      ,Northeast Corridor     ,2746,3118,88.1
+2022,APRIL          ,Northeast Corridor     ,3143,3327,94.5
+2022,AUGUST         ,Northeast Corridor     ,3133,3533,88.7
+2022,DECEMBER       ,Northeast Corridor     ,3144,3417,92
+2022,FEBRUARY       ,Northeast Corridor     ,2790,3072,90.8
+2022,JANUARY        ,Northeast Corridor     ,3096,3338,92.8
+2022,JULY           ,Northeast Corridor     ,3034,3336,90.9
+2022,JUNE           ,Northeast Corridor     ,3052,3397,89.8
+2022,MARCH          ,Northeast Corridor     ,3340,3525,94.8
+2022,MAY            ,Northeast Corridor     ,3016,3392,88.9
+2022,NOVEMBER       ,Northeast Corridor     ,2947,3288,89.6
+2022,OCTOBER        ,Northeast Corridor     ,3086,3401,90.7
+2022,SEPTEMBER      ,Northeast Corridor     ,2957,3337,88.6
+2023,APRIL          ,Northeast Corridor     ,2967,3270,90.7
+2023,AUGUST         ,Northeast Corridor     ,3192,3551,89.9
+2023,DECEMBER       ,Northeast Corridor     ,3058,3370,90.7
+2023,FEBRUARY       ,Northeast Corridor     ,2774,3081,90
+2023,JANUARY        ,Northeast Corridor     ,3084,3356,91.9
+2023,JULY           ,Northeast Corridor     ,2876,3363,85.5
+2023,JUNE           ,Northeast Corridor     ,3122,3429,91
+2023,MARCH          ,Northeast Corridor     ,3130,3533,88.6
+2023,MAY            ,Northeast Corridor     ,3092,3477,88.9
+2023,NOVEMBER       ,Northeast Corridor     ,3064,3386,90.5
+2023,OCTOBER        ,Northeast Corridor     ,3075,3500,87.9
+2023,SEPTEMBER      ,Northeast Corridor     ,2866,3308,86.6
+2024,APRIL          ,Northeast Corridor     ,2972,3432,86.6
+2024,AUGUST         ,Northeast Corridor     ,3050,3518,86.7
+2024,FEBRUARY       ,Northeast Corridor     ,2887,3253,88.7
+2024,JANUARY        ,Northeast Corridor     ,3010,3447,87.3
+2024,JULY           ,Northeast Corridor     ,2983,3507,85.1
+2024,JUNE           ,Northeast Corridor     ,2501,3311,75.5
+2024,MARCH          ,Northeast Corridor     ,3099,3434,90.2
+2024,MAY            ,Northeast Corridor     ,3017,3512,85.9
+2017,APRIL          ,North Jersey Coast Line,2469,2863,86.2
+2017,AUGUST         ,North Jersey Coast Line,3125,3381,92.4
+2017,DECEMBER       ,North Jersey Coast Line,2721,3036,89.6
+2017,FEBRUARY       ,North Jersey Coast Line,2554,2778,91.9
+2017,JANUARY        ,North Jersey Coast Line,2808,3035,92.5
+2017,JULY           ,North Jersey Coast Line,3021,3311,91.2
+2017,JUNE           ,North Jersey Coast Line,2589,3075,84.2
+2017,MARCH          ,North Jersey Coast Line,2870,3073,93.4
+2017,MAY            ,North Jersey Coast Line,2585,3149,82.1
+2017,NOVEMBER       ,North Jersey Coast Line,2708,3008,90
+2017,OCTOBER        ,North Jersey Coast Line,2713,3112,87.2
+2017,SEPTEMBER      ,North Jersey Coast Line,2734,3056,89.5
+2018,APRIL          ,North Jersey Coast Line,2766,2961,93.4
+2018,AUGUST         ,North Jersey Coast Line,2808,3070,91.5
+2018,DECEMBER       ,North Jersey Coast Line,2580,2873,89.8
+2018,FEBRUARY       ,North Jersey Coast Line,2632,2759,95.4
+2018,JANUARY        ,North Jersey Coast Line,2597,3059,84.9
+2018,JULY           ,North Jersey Coast Line,2634,3008,87.6
+2018,JUNE           ,North Jersey Coast Line,2654,2893,91.7
+2018,MARCH          ,North Jersey Coast Line,2750,3026,90.9
+2018,MAY            ,North Jersey Coast Line,2811,3109,90.4
+2018,NOVEMBER       ,North Jersey Coast Line,2293,2843,80.7
+2018,OCTOBER        ,North Jersey Coast Line,2646,2995,88.3
+2018,SEPTEMBER      ,North Jersey Coast Line,2548,2827,90.1
+2019,APRIL          ,North Jersey Coast Line,2650,2872,92.3
+2019,AUGUST         ,North Jersey Coast Line,2673,2989,89.4
+2019,DECEMBER       ,North Jersey Coast Line,2672,2904,92
+2019,FEBRUARY       ,North Jersey Coast Line,2365,2627,90
+2019,JANUARY        ,North Jersey Coast Line,2578,2910,88.6
+2019,JULY           ,North Jersey Coast Line,2481,2995,82.8
+2019,JUNE           ,North Jersey Coast Line,2412,2830,85.2
+2019,MARCH          ,North Jersey Coast Line,2771,2920,94.9
+2019,MAY            ,North Jersey Coast Line,2759,2975,92.7
+2019,NOVEMBER       ,North Jersey Coast Line,2537,2809,90.3
+2019,OCTOBER        ,North Jersey Coast Line,2696,2974,90.7
+2019,SEPTEMBER      ,North Jersey Coast Line,2601,2818,92.3
+2020,APRIL          ,North Jersey Coast Line,2032,2148,94.6
+2020,AUGUST         ,North Jersey Coast Line,2304,2685,85.8
+2020,DECEMBER       ,North Jersey Coast Line,2333,2676,87.2
+2020,FEBRUARY       ,North Jersey Coast Line,2523,2697,93.5
+2020,JANUARY        ,North Jersey Coast Line,2675,2911,91.9
+2020,JULY           ,North Jersey Coast Line,2593,2860,90.7
+2020,JUNE           ,North Jersey Coast Line,2013,2102,95.8
+2020,MARCH          ,North Jersey Coast Line,2553,2700,94.6
+2020,MAY            ,North Jersey Coast Line,2000,2158,92.7
+2020,NOVEMBER       ,North Jersey Coast Line,2319,2639,87.9
+2020,OCTOBER        ,North Jersey Coast Line,2667,2808,95
+2020,SEPTEMBER      ,North Jersey Coast Line,2610,2709,96.3
+2021,APRIL          ,North Jersey Coast Line,2531,2716,93.2
+2021,AUGUST         ,North Jersey Coast Line,2666,2894,92.1
+2021,DECEMBER       ,North Jersey Coast Line,2652,2884,92
+2021,FEBRUARY       ,North Jersey Coast Line,2184,2345,93.1
+2021,JANUARY        ,North Jersey Coast Line,2401,2705,88.8
+2021,JULY           ,North Jersey Coast Line,2654,2880,92.2
+2021,JUNE           ,North Jersey Coast Line,2546,2800,90.9
+2021,MARCH          ,North Jersey Coast Line,2633,2814,93.6
+2021,MAY            ,North Jersey Coast Line,2552,2730,93.5
+2021,NOVEMBER       ,North Jersey Coast Line,2423,2708,89.5
+2021,OCTOBER        ,North Jersey Coast Line,2520,2758,91.4
+2021,SEPTEMBER      ,North Jersey Coast Line,2352,2638,89.2
+2022,APRIL          ,North Jersey Coast Line,2586,2772,93.3
+2022,AUGUST         ,North Jersey Coast Line,2681,3002,89.3
+2022,DECEMBER       ,North Jersey Coast Line,2639,2849,92.6
+2022,FEBRUARY       ,North Jersey Coast Line,2417,2570,94
+2022,JANUARY        ,North Jersey Coast Line,2625,2816,93.2
+2022,JULY           ,North Jersey Coast Line,2664,2944,90.5
+2022,JUNE           ,North Jersey Coast Line,2518,2839,88.7
+2022,MARCH          ,North Jersey Coast Line,2596,2906,89.3
+2022,MAY            ,North Jersey Coast Line,2534,2880,88
+2022,NOVEMBER       ,North Jersey Coast Line,2454,2748,89.3
+2022,OCTOBER        ,North Jersey Coast Line,2553,2842,89.8
+2022,SEPTEMBER      ,North Jersey Coast Line,2550,2822,90.4
+2023,APRIL          ,North Jersey Coast Line,2538,2745,92.5
+2023,AUGUST         ,North Jersey Coast Line,2692,3025,89
+2023,DECEMBER       ,North Jersey Coast Line,2541,2837,89.6
+2023,FEBRUARY       ,North Jersey Coast Line,2372,2570,92.3
+2023,JANUARY        ,North Jersey Coast Line,2649,2817,94
+2023,JULY           ,North Jersey Coast Line,2563,2962,86.5
+2023,JUNE           ,North Jersey Coast Line,2555,2863,89.2
+2023,MARCH          ,North Jersey Coast Line,2560,2917,87.8
+2023,MAY            ,North Jersey Coast Line,2637,2933,89.9
+2023,NOVEMBER       ,North Jersey Coast Line,2508,2750,91.2
+2023,OCTOBER        ,North Jersey Coast Line,2560,2896,88.4
+2023,SEPTEMBER      ,North Jersey Coast Line,2414,2813,85.8
+2024,APRIL          ,North Jersey Coast Line,2488,2826,88
+2024,AUGUST         ,North Jersey Coast Line,2481,3008,82.5
+2024,FEBRUARY       ,North Jersey Coast Line,2443,2693,90.7
+2024,JANUARY        ,North Jersey Coast Line,2551,2867,89
+2024,JULY           ,North Jersey Coast Line,2464,3006,82
+2024,JUNE           ,North Jersey Coast Line,2229,2820,79
+2024,MARCH          ,North Jersey Coast Line,2607,2877,90.6
+2024,MAY            ,North Jersey Coast Line,2506,2933,85.4
+2017,APRIL          ,Pascack Valley Line    ,977,1019,95.9
+2017,AUGUST         ,Pascack Valley Line    ,1051,1089,96.5
+2017,DECEMBER       ,Pascack Valley Line    ,973,1043,93.3
+2017,FEBRUARY       ,Pascack Valley Line    ,919,957,96
+2017,JANUARY        ,Pascack Valley Line    ,1014,1044,97.1
+2017,JULY           ,Pascack Valley Line    ,997,1046,95.3
+2017,JUNE           ,Pascack Valley Line    ,1007,1049,96
+2017,MARCH          ,Pascack Valley Line    ,1002,1056,94.9
+2017,MAY            ,Pascack Valley Line    ,1044,1075,97.1
+2017,NOVEMBER       ,Pascack Valley Line    ,972,1035,93.9
+2017,OCTOBER        ,Pascack Valley Line    ,1124,1157,97.1
+2017,SEPTEMBER      ,Pascack Valley Line    ,996,1018,97.8
+2018,APRIL          ,Pascack Valley Line    ,979,1036,94.5
+2018,AUGUST         ,Pascack Valley Line    ,995,1069,93.1
+2018,DECEMBER       ,Pascack Valley Line    ,944,1029,91.7
+2018,FEBRUARY       ,Pascack Valley Line    ,949,957,99.2
+2018,JANUARY        ,Pascack Valley Line    ,988,1061,93.1
+2018,JULY           ,Pascack Valley Line    ,963,1043,92.3
+2018,JUNE           ,Pascack Valley Line    ,975,1018,95.8
+2018,MARCH          ,Pascack Valley Line    ,967,1047,92.4
+2018,MAY            ,Pascack Valley Line    ,1028,1074,95.7
+2018,NOVEMBER       ,Pascack Valley Line    ,895,1018,87.9
+2018,OCTOBER        ,Pascack Valley Line    ,1027,1071,95.9
+2018,SEPTEMBER      ,Pascack Valley Line    ,944,990,95.4
+2019,APRIL          ,Pascack Valley Line    ,998,1033,96.6
+2019,AUGUST         ,Pascack Valley Line    ,800,836,95.7
+2019,DECEMBER       ,Pascack Valley Line    ,948,1043,90.9
+2019,FEBRUARY       ,Pascack Valley Line    ,897,942,95.2
+2019,JANUARY        ,Pascack Valley Line    ,968,1044,92.7
+2019,JULY           ,Pascack Valley Line    ,779,835,93.3
+2019,JUNE           ,Pascack Valley Line    ,924,1004,92
+2019,MARCH          ,Pascack Valley Line    ,1000,1042,96
+2019,MAY            ,Pascack Valley Line    ,1021,1055,96.8
+2019,NOVEMBER       ,Pascack Valley Line    ,947,1004,94.3
+2019,OCTOBER        ,Pascack Valley Line    ,1024,1070,95.7
+2019,SEPTEMBER      ,Pascack Valley Line    ,940,1005,93.5
+2020,APRIL          ,Pascack Valley Line    ,684,720,95
+2020,AUGUST         ,Pascack Valley Line    ,915,1001,91.4
+2020,DECEMBER       ,Pascack Valley Line    ,953,1018,93.6
+2020,FEBRUARY       ,Pascack Valley Line    ,938,966,97.1
+2020,JANUARY        ,Pascack Valley Line    ,1006,1044,96.4
+2020,JULY           ,Pascack Valley Line    ,972,1028,94.6
+2020,JUNE           ,Pascack Valley Line    ,704,720,97.8
+2020,MARCH          ,Pascack Valley Line    ,917,942,97.3
+2020,MAY            ,Pascack Valley Line    ,738,744,99.2
+2020,NOVEMBER       ,Pascack Valley Line    ,907,991,91.5
+2020,OCTOBER        ,Pascack Valley Line    ,1029,1056,97.4
+2020,SEPTEMBER      ,Pascack Valley Line    ,985,1017,96.9
+2021,APRIL          ,Pascack Valley Line    ,985,1032,95.4
+2021,AUGUST         ,Pascack Valley Line    ,1018,1057,96.3
+2021,DECEMBER       ,Pascack Valley Line    ,1066,1100,96.9
+2021,FEBRUARY       ,Pascack Valley Line    ,713,849,84
+2021,JANUARY        ,Pascack Valley Line    ,978,1014,96.4
+2021,JULY           ,Pascack Valley Line    ,973,1042,93.4
+2021,JUNE           ,Pascack Valley Line    ,995,1033,96.3
+2021,MARCH          ,Pascack Valley Line    ,1004,1071,93.7
+2021,MAY            ,Pascack Valley Line    ,1007,1028,98
+2021,NOVEMBER       ,Pascack Valley Line    ,950,1025,92.7
+2021,OCTOBER        ,Pascack Valley Line    ,978,1042,93.9
+2021,SEPTEMBER      ,Pascack Valley Line    ,914,980,93.3
+2022,APRIL          ,Pascack Valley Line    ,980,1050,93.3
+2022,AUGUST         ,Pascack Valley Line    ,1057,1117,94.6
+2022,DECEMBER       ,Pascack Valley Line    ,992,1084,91.5
+2022,FEBRUARY       ,Pascack Valley Line    ,865,957,90.4
+2022,JANUARY        ,Pascack Valley Line    ,1014,1070,94.8
+2022,JULY           ,Pascack Valley Line    ,1024,1068,95.9
+2022,JUNE           ,Pascack Valley Line    ,986,1042,94.6
+2022,MARCH          ,Pascack Valley Line    ,1041,1116,93.3
+2022,MAY            ,Pascack Valley Line    ,996,1049,94.9
+2022,NOVEMBER       ,Pascack Valley Line    ,938,1044,89.8
+2022,OCTOBER        ,Pascack Valley Line    ,935,1085,86.2
+2022,SEPTEMBER      ,Pascack Valley Line    ,982,1060,92.6
+2023,APRIL          ,Pascack Valley Line    ,935,963,97.1
+2023,AUGUST         ,Pascack Valley Line    ,1075,1116,96.3
+2023,DECEMBER       ,Pascack Valley Line    ,999,1068,93.5
+2023,FEBRUARY       ,Pascack Valley Line    ,938,980,95.7
+2023,JANUARY        ,Pascack Valley Line    ,1034,1070,96.6
+2023,JULY           ,Pascack Valley Line    ,985,1070,92.1
+2023,JUNE           ,Pascack Valley Line    ,1047,1076,97.3
+2023,MARCH          ,Pascack Valley Line    ,1065,1117,95.3
+2023,MAY            ,Pascack Valley Line    ,884,926,95.5
+2023,NOVEMBER       ,Pascack Valley Line    ,977,1044,93.6
+2023,OCTOBER        ,Pascack Valley Line    ,1044,1101,94.8
+2023,SEPTEMBER      ,Pascack Valley Line    ,987,1044,94.5
+2024,APRIL          ,Pascack Valley Line    ,1046,1077,97.1
+2024,AUGUST         ,Pascack Valley Line    ,1023,1101,92.9
+2024,FEBRUARY       ,Pascack Valley Line    ,991,1020,97.2
+2024,JANUARY        ,Pascack Valley Line    ,992,1086,91.3
+2024,JULY           ,Pascack Valley Line    ,1034,1103,93.7
+2024,JUNE           ,Pascack Valley Line    ,945,1044,90.5
+2024,MARCH          ,Pascack Valley Line    ,1032,1084,95.2
+2024,MAY            ,Pascack Valley Line    ,1041,1100,94.6
+2017,APRIL          ,Raritan Valley Line    ,1314,1477,89
+2017,AUGUST         ,Raritan Valley Line    ,1477,1507,98
+2017,DECEMBER       ,Raritan Valley Line    ,1266,1458,86.8
+2017,FEBRUARY       ,Raritan Valley Line    ,1306,1333,98
+2017,JANUARY        ,Raritan Valley Line    ,1418,1458,97.3
+2017,JULY           ,Raritan Valley Line    ,1421,1456,97.6
+2017,JUNE           ,Raritan Valley Line    ,1371,1454,94.3
+2017,MARCH          ,Raritan Valley Line    ,1416,1473,96.1
+2017,MAY            ,Raritan Valley Line    ,1412,1489,94.8
+2017,NOVEMBER       ,Raritan Valley Line    ,1329,1439,92.4
+2017,OCTOBER        ,Raritan Valley Line    ,1433,1489,96.2
+2017,SEPTEMBER      ,Raritan Valley Line    ,1382,1421,97.3
+2018,APRIL          ,Raritan Valley Line    ,1366,1444,94.6
+2018,AUGUST         ,Raritan Valley Line    ,1338,1507,88.8
+2018,DECEMBER       ,Raritan Valley Line    ,1354,1456,93
+2018,FEBRUARY       ,Raritan Valley Line    ,1296,1333,97.2
+2018,JANUARY        ,Raritan Valley Line    ,1356,1476,91.9
+2018,JULY           ,Raritan Valley Line    ,1372,1472,93.2
+2018,JUNE           ,Raritan Valley Line    ,1348,1438,93.7
+2018,MARCH          ,Raritan Valley Line    ,1372,1464,93.7
+2018,MAY            ,Raritan Valley Line    ,1427,1494,95.5
+2018,NOVEMBER       ,Raritan Valley Line    ,1158,1439,80.5
+2018,OCTOBER        ,Raritan Valley Line    ,1327,1505,88.2
+2018,SEPTEMBER      ,Raritan Valley Line    ,1344,1404,95.7
+2019,APRIL          ,Raritan Valley Line    ,1410,1453,97
+2019,AUGUST         ,Raritan Valley Line    ,1417,1487,95.3
+2019,DECEMBER       ,Raritan Valley Line    ,1408,1474,95.5
+2019,FEBRUARY       ,Raritan Valley Line    ,1265,1333,94.9
+2019,JANUARY        ,Raritan Valley Line    ,1366,1477,92.5
+2019,JULY           ,Raritan Valley Line    ,1387,1490,93.1
+2019,JUNE           ,Raritan Valley Line    ,1359,1421,95.6
+2019,MARCH          ,Raritan Valley Line    ,1418,1474,96.2
+2019,MAY            ,Raritan Valley Line    ,1442,1490,96.8
+2019,NOVEMBER       ,Raritan Valley Line    ,1312,1422,92.3
+2019,OCTOBER        ,Raritan Valley Line    ,1426,1506,94.7
+2019,SEPTEMBER      ,Raritan Valley Line    ,1356,1416,95.8
+2020,APRIL          ,Raritan Valley Line    ,1067,1124,94.9
+2020,AUGUST         ,Raritan Valley Line    ,1242,1326,93.7
+2020,DECEMBER       ,Raritan Valley Line    ,1308,1378,94.9
+2020,FEBRUARY       ,Raritan Valley Line    ,1282,1370,93.6
+2020,JANUARY        ,Raritan Valley Line    ,1364,1479,92.2
+2020,JULY           ,Raritan Valley Line    ,1369,1458,93.9
+2020,JUNE           ,Raritan Valley Line    ,1080,1124,96.1
+2020,MARCH          ,Raritan Valley Line    ,1306,1369,95.4
+2020,MAY            ,Raritan Valley Line    ,1091,1156,94.4
+2020,NOVEMBER       ,Raritan Valley Line    ,1261,1318,95.7
+2020,OCTOBER        ,Raritan Valley Line    ,1305,1359,96
+2020,SEPTEMBER      ,Raritan Valley Line    ,1279,1311,97.6
+2021,APRIL          ,Raritan Valley Line    ,1268,1366,92.8
+2021,AUGUST         ,Raritan Valley Line    ,1392,1467,94.9
+2021,DECEMBER       ,Raritan Valley Line    ,1359,1472,92.3
+2021,FEBRUARY       ,Raritan Valley Line    ,1101,1184,93
+2021,JANUARY        ,Raritan Valley Line    ,1321,1366,96.7
+2021,JULY           ,Raritan Valley Line    ,1412,1455,97
+2021,JUNE           ,Raritan Valley Line    ,1379,1419,97.2
+2021,MARCH          ,Raritan Valley Line    ,1349,1414,95.4
+2021,MAY            ,Raritan Valley Line    ,1277,1376,92.8
+2021,NOVEMBER       ,Raritan Valley Line    ,1246,1405,88.7
+2021,OCTOBER        ,Raritan Valley Line    ,1324,1453,91.1
+2021,SEPTEMBER      ,Raritan Valley Line    ,1191,1239,96.1
+2022,APRIL          ,Raritan Valley Line    ,1358,1417,95.8
+2022,AUGUST         ,Raritan Valley Line    ,1339,1480,90.5
+2022,DECEMBER       ,Raritan Valley Line    ,1377,1455,94.6
+2022,FEBRUARY       ,Raritan Valley Line    ,1272,1314,96.8
+2022,JANUARY        ,Raritan Valley Line    ,1365,1439,94.9
+2022,JULY           ,Raritan Valley Line    ,1362,1437,94.8
+2022,JUNE           ,Raritan Valley Line    ,1322,1431,92.4
+2022,MARCH          ,Raritan Valley Line    ,1381,1484,93.1
+2022,MAY            ,Raritan Valley Line    ,1377,1451,94.9
+2022,NOVEMBER       ,Raritan Valley Line    ,1319,1404,93.9
+2022,OCTOBER        ,Raritan Valley Line    ,1384,1452,95.3
+2022,SEPTEMBER      ,Raritan Valley Line    ,1306,1414,92.4
+2023,APRIL          ,Raritan Valley Line    ,1332,1401,95.1
+2023,AUGUST         ,Raritan Valley Line    ,1391,1478,94.1
+2023,DECEMBER       ,Raritan Valley Line    ,1330,1437,92.6
+2023,FEBRUARY       ,Raritan Valley Line    ,1237,1314,94.1
+2023,JANUARY        ,Raritan Valley Line    ,1378,1441,95.6
+2023,JULY           ,Raritan Valley Line    ,1348,1435,93.9
+2023,JUNE           ,Raritan Valley Line    ,1384,1432,96.6
+2023,MARCH          ,Raritan Valley Line    ,1397,1484,94.1
+2023,MAY            ,Raritan Valley Line    ,1399,1466,95.4
+2023,NOVEMBER       ,Raritan Valley Line    ,1329,1403,94.7
+2023,OCTOBER        ,Raritan Valley Line    ,1389,1466,94.7
+2023,SEPTEMBER      ,Raritan Valley Line    ,1294,1398,92.6
+2024,APRIL          ,Raritan Valley Line    ,1340,1431,93.6
+2024,AUGUST         ,Raritan Valley Line    ,1367,1468,93.1
+2024,FEBRUARY       ,Raritan Valley Line    ,1270,1366,93
+2024,JANUARY        ,Raritan Valley Line    ,1335,1455,91.8
+2024,JULY           ,Raritan Valley Line    ,1383,1466,94.3
+2024,JUNE           ,Raritan Valley Line    ,1259,1399,90
+2024,MARCH          ,Raritan Valley Line    ,1388,1453,95.5
+2024,MAY            ,Raritan Valley Line    ,1383,1466,94.3
