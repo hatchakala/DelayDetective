@@ -27,7 +27,7 @@ const LineGraph = ({ dataPoints, clearGraph }) => {
           x: {
             title: {
               display: true,
-              text: 'Search Number',
+              text: 'Delay Number',
             },
             grid: {
               drawBorder: true,

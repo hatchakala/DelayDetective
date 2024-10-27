@@ -1,80 +1,73 @@
-/* .header {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 20px;
-    background-color: #2C3E50;
-    color: white;
-  }
-  
-  .header-left {
-    display: flex;
-    align-items: center;
-  }
-  
-  .header-left span {
-    font-size: 1.5em;
-  }
-  
-  .search-icon {
-    width: 20px;
-    height: 20px;
-    margin-left: 10px;
-  }
-  
-  header h1 {
-    font-size: 2em;
-    color: #E74C3C;
-  }
-  
-  #about-button {
-    background-color: #3498DB;
-    color: white;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-  }
-  
-  #about-button:hover {
-    background-color: #2980B9;
-  } */
-  
-  .header {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 20px;
-    background-color: #003DA5; /* Dark Blue */
-    color: white;
-  }
-  
-  .header-left {
-    display: flex;
-    align-items: center;
-  }
-  
-  .header-left span {
-    font-size: 1.5em;
-    color: #FF6A13; /* Orange */
-    font-weight: bold;
-  }
-  
-  .search-icon {
-    width: 20px;
-    height: 20px;
-    margin-left: 10px;
-  }
-  
-  .header-title-container {
-    flex: 1; /* Allows centering */
-    text-align: center;
-  }
-  
-  .header-title {
-    font-size: 2em;
-    color: #009ADA; /* Bright Blue */
-  }
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #003DA5; /* Dark Blue */
+  color: white;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-left span {
+  font-size: 1.5em;
+  color: #FF6A13; /* Orange */
+  font-weight: bold;
+}
+
+.search-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.header-title-container {
+  flex: 1; /* Centers title */
+  text-align: center;
+}
+
+.header-title {
+  font-size: 2em;
+  color: #009ADA; /* Bright Blue */
+}
+
+.typing-text {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: #FF6A13;
+}
+
+.cursor {
+  display: inline-block;
+  animation: blink 1s infinite;
+  font-weight: bold;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.about-button {
+  background-color: #FF6A13; /* Orange */
+  color: #003DA5; /* Dark Blue */
+  border: 2px solid #003DA5;
+  padding: 8px 16px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.about-button:hover {
+  background-color: #003DA5; /* Dark Blue */
+  color: #FF6A13; /* Orange */
+}
+
+
   
   
